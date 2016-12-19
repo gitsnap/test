@@ -1,4 +1,3 @@
-Initializing the doc, 1st version!
+Initializing the doc, the 1st version!
 
 1
-2
