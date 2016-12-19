@@ -1,5 +1,3 @@
-Initializing the doc, the 1st version!
+The 1st line!
 
-Add the 2nd line!
-
-Add the 3rd line!
+The 2nd line!
