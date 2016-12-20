@@ -4,4 +4,4 @@ The 2nd line!
 
 Add the 3rd line for the branch "another"!
 
-Add a conflict!
+Erase the conflict; add a new line for main branch and br2!
